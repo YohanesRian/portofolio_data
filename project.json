@@ -1,6 +1,14 @@
 {
     "project": [
         {
+            "name": "STAGMAYA",
+            "year": "2024",
+            "as": "Developer",
+            "description": "Developing a school lesson schedule website for Saint Agnes Catholic High School teachers and students. The website uses HTML, CSS, and Javascript with the help of Google Sheets as a database and Github Pages as hosting so that it is easy, cheap, and can be used dynamically and operated by teachers and students, both in viewing schedules and managing the Google Sheets database.",
+            "picture": "https://i.ibb.co/9vNMPBw/STAGMAYA.jpg",
+            "link": "https://stagmaya.github.io"
+        },
+        {
             "name": "LÁMORE",
             "year": "2023",
             "as": "Developer",
